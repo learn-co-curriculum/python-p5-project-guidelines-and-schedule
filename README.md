@@ -51,8 +51,6 @@ relationships, associations, attributes, and views.
 
 **Resources**:
 
-- [How to put together a software project proposal](https://www.fool.com/the-blueprint/project-proposal/)
-- [How to Write a Software project Proposal from Rutgers](https://www.ece.rutgers.edu/~marsic/Teaching/SE/proposal.html)
 - [How to write a proposal and get what you want](https://www.process.st/how-to-write-a-proposal/)
 
 After your proposal is approved by your instructor, you may proceed with
